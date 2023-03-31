@@ -56,4 +56,4 @@ interface MergingInterface {
 }
 
 let mi: MergingInterface;
-// mi.  //a, b 다 나옴
+// mi.  //a, b 다 나옴.
